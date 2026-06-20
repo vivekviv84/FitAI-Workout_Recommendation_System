@@ -1,0 +1,12 @@
+c:\Users\ACER\Desktop\se\ai_workout_plannar\workout\bin\Debug\workout.dacpac
+c:\Users\ACER\Desktop\se\ai_workout_plannar\workout\bin\Debug\workout.deps.json
+c:\Users\ACER\Desktop\se\ai_workout_plannar\workout\bin\Debug\workout.dll
+c:\Users\ACER\Desktop\se\ai_workout_plannar\workout\bin\Debug\workout.pdb
+c:\Users\ACER\Desktop\se\ai_workout_plannar\workout\obj\Debug\workout.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ACER\Desktop\se\ai_workout_plannar\workout\obj\Debug\workout.sourcelink.json
+c:\Users\ACER\Desktop\se\ai_workout_plannar\workout\obj\Debug\Model.xml
+c:\Users\ACER\Desktop\se\ai_workout_plannar\workout\obj\Debug\refactor.xml
+c:\Users\ACER\Desktop\se\ai_workout_plannar\workout\obj\Debug\postdeploy.sql
+c:\Users\ACER\Desktop\se\ai_workout_plannar\workout\obj\Debug\predeploy.sql
+c:\Users\ACER\Desktop\se\ai_workout_plannar\workout\obj\Debug\workout.dll
+c:\Users\ACER\Desktop\se\ai_workout_plannar\workout\obj\Debug\workout.pdb
